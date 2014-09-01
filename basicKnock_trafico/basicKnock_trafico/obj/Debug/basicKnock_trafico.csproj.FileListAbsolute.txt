@@ -1,0 +1,14 @@
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\bin\Debug\basicKnock_trafico.exe.config
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\bin\Debug\basicKnock_trafico.exe
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\bin\Debug\basicKnock_trafico.pdb
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\bin\Debug\PacketDotNet.dll
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\bin\Debug\SharpPcap.dll
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\bin\Debug\PacketDotNet.xml
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\bin\Debug\SharpPcap.xml
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\obj\Debug\basicKnock_trafico.csprojResolveAssemblyReference.cache
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\obj\Debug\Interop.NATUPNPLib.dll
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\obj\Debug\Interop.NETCONLib.dll
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\obj\Debug\Interop.NetFwTypeLib.dll
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\obj\Debug\basicKnock_trafico.csproj.ResolveComReference.cache
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\obj\Debug\basicKnock_trafico.exe
+c:\users\david.grau\documents\visual studio 2013\Projects\basicKnock_trafico\basicKnock_trafico\obj\Debug\basicKnock_trafico.pdb
